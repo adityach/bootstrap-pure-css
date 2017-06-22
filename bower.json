@@ -1,0 +1,21 @@
+{
+  "name": "bootstrap-pure-css",
+  "description": "Bower component for [Bootstrap](http://getbootstrap.com/) CSS without font libraries. No javascript.",
+  "keywords": [
+    "twitter",
+    "bootstrap",
+    "twitter-bootstrap",
+    "css"
+  ],
+  "main": [
+    "bootstrap.css"
+  ],
+  "homepage": "http://getbootstrap.com/",
+  "author": {
+    "name": "Twitter Inc."
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/adityach/bootstrap-pure-css.git"
+  }
+}
